@@ -1,0 +1,4 @@
+name: StaffAnnounce
+version: ${project.version}
+main: net.kleptic.staffannounce.StaffAnnounce
+description: Send a message to all online staff
